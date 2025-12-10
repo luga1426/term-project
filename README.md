@@ -25,5 +25,10 @@ Open Source Software: Translator from Korean to English.
 ### 3. How To Run
 
   - sentences = [ "Write the Sentence in Korean"]
-  - After Running the program, the translated sentence should shown on terminal. 
+  - After Running the program, the translated sentence should shown on terminal.
+    
+### 4. Used Packages.
+   -torch, transformers, datasets, sentencepiece, accelerate
+
+### 5. Execution images
 
